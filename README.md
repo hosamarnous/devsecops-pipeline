@@ -262,4 +262,3 @@ You can now download a sample report and look at it
 
 # Conclusion
 You were able to create a end to end simple continuous deployment pipeline with test driven security.
-
