@@ -207,7 +207,7 @@ $ export KUBECONFIG=/bin/kube-config-mel01-mycluster.yml
 5. From ```Build Triggers```, select ```GitHub hook trigger for GITScm polling```
 ![20](images/20.png)
 
-6. Click on add build step, select ```execute shell``
+6. Click on add build step, select ```execute shell`` ....
 7. Paste in following code 
 ```sh
 #!/bin/bash
